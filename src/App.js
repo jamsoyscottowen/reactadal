@@ -7,7 +7,7 @@ export const adalConfig = {
   aadTenant: 'asabri.co.id',
   spaClientId: '1e957e0a-8aa7-4f77-91d7-27d25be9909b', //AAD app client id for this app
   serviceClientId: '1fd046c7-83dd-4c06-bbff-546ff92232b0', //AAD app client id for the service API app
-  serviceUrl: 'http://api-hrms.asabri.co.id/api/pegawai/324', // the service API endpointa
+  serviceUrl: 'http://api-hrms.asabri.co.id/api/pegawai', // the service API endpointa
 }
 
 class App extends Component {
