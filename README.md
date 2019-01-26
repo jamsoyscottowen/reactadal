@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Jangan Lupa npm i react-adal yahh ...
+Jangan Lupa ### `npm i react-adal` yahh ...
 
 ## Available Scripts
 
